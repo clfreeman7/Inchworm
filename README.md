@@ -16,4 +16,5 @@ However, the design can be generally categorized into three components:
 2. Hard endcaps
 3. Tendons and channels
 
+Figure 1 shows this basic morphology and the terminology for the design parameters.
 
