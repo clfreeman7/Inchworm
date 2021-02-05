@@ -25,7 +25,7 @@ Rigid links without fins https://ieeexplore.ieee.org/abstract/document/6269102, 
 
 #### Motivation
 Fins primarily are used to achieve and encourage greater deformation. In tendon-based inchworm robots, the portion of the tendon that is channeled through the fins will experience greater difficulty in contracting than the portion channeled through the adjacent fin cavity due to the lack of boundary and subsequent ability to straighten. This is shown in Figure 2. 
-
+![Fin_Diagram](Fins.PNG)
 Note that this creates a linkage system, wherein the deformability of the links is dependent on the material properties. Creating fins allows for greater curvature with the same force. This is especially true for SMA tendons embedded in a silicone bbody due to the thermal shielding of the silicone, which increases the time for limb relaxation. The linkages further provide more predictability to the shape of the body by relying on this discretized linkage system rather than a single continuous buckling body. 
 
 Fins also provide greater versatility by  allowing the body to traverse obstacles and high-roughness environments. This can be compared to the traction that is provided by the threads on tires. 
