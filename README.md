@@ -40,4 +40,6 @@ Deciding on the number, width, and height of the fins is dependent on the materi
 ## Fabrication
 
 ### Mold Creation
-The 
+
+
+![markers](markers.png)
