@@ -43,7 +43,7 @@ Fabrication of the robbot consists of the following steps:
 1. Mold creation: the mold is modeled in CAD software, then 3D-printed.
 2. Casting: the soft body is casted in the mold using curable silicone rubber. 
 3. Tendon routing: the SMA is crimped to wire and threaded through the tendon channels to bbe secured in place through compression fitting of the soft body channels. The wires are then routed through the top channel and exit through a central hole.
-4. Endcap creation and affixing: the endcaps 3D printed and then connected to the soft body by inserting the pins of the endcap into the corresponding holes in the soft body. Super glue can then be used to ensure adhesion. 
+4. Adding endcaps: the endcaps 3D printed and then connected to the soft body by inserting the pins of the endcap into the corresponding holes in the soft body. Super glue can then be used to ensure adhesion. 
 
 #### Materials
 
@@ -60,9 +60,18 @@ Casting
 - Dragon Skin 10 FAST Part B Platinum Cure Silicone Rubber
 
 Tendon Routing
+- Toki Biometal Helix BMX1501000: SMA
+- Jaguar JSF3607-9 wire
+- Preciva Dupont Ratcheting Crimper PR-3254
+- Flush cutters 
 
 ### Mold Creation
 Mold creation begins by modeling the inchworm body in CAD, as shown below. 
 ![drawing](inchworm_drawing.PNG)
 
+#### Casting
+
+#### Tendon Routing
+![SMA_coil](images/SMA_coil.PNG)
+#### Adding Endcaps
 ![markers](markers.png)
