@@ -62,6 +62,6 @@ Casting
 Tendon Routing
 
 ### Mold Creation
-
-
+Mold creation begins by modeling the inchworm body in CAD, as shown below. 
+![drawing](inchworm_drawing.png)
 ![markers](markers.png)
