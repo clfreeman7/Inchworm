@@ -36,7 +36,7 @@ Fins also provide greater versatility by  allowing the body to traverse obstacle
 One drawback to fins is that the fin cavities leave the tendons exposed to potential damage in the environment interactions.
 
 ##### Design
-Deciding on the number, width, and height of the fins is dependent on the material properties, tendon design, and expected environment interactions. Using fewer, wider fins that are spaced out may allow for greater deformation at the cost of stability and tendon exxposure. It may also impede the ability to interact with obstacles and cause radial stress on the tendon channels in the fins which can lead to tearing. However, thinner fins may be prone to buckling and breakage. Caterpillars do not employ uniform leg spacing. When working with exposed tendons, however, the best method of mimicking such spacing may be to simply decrease the height of some of the inner fins. 
+Deciding on the number, width, and height of the fins is dependent on the material properties, tendon design, and expected environment interactions. Using fewer, wider fins that are spaced out may allow for greater deformation at the cost of stability and tendon exxposure. It may also impede the ability to interact with obstacles and cause radial stress on the tendon channels in the fins which can lead to tearing. However, thinner fins may be prone to buckling and breakage. Caterpillars do not employ uniform leg spacing. When working with exposed tendons, however, the best method of mimicking such spacing may be to simply decrease the height of some of the inner fins. This may encourage passive relaxation of the body.
 
 ## Fabrication
 
