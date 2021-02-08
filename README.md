@@ -70,8 +70,13 @@ Mold creation begins by modeling the inchworm body in CAD, as shown below.
 ![drawing](inchworm_drawing.PNG)
 
 #### Casting
+![SMA_coil](images/molds.PNG)
+![SMA_coil](images/casting.PNG)
+![SMA_coil](images/post_casting.PNG)
 
 #### Tendon Routing
 ![SMA_coil](images/SMA_coil.PNG)
+![SMA_coil](images/SMA_extended.PNG)
+![SMA_coil](images/crimp.PNG)
 #### Adding Endcaps
 ![markers](markers.png)
