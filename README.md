@@ -17,7 +17,7 @@ However, the design can be generally categorized into three components:
 3. Tendons and channels
 
 The figure below shows this basic morphology and the terminology for the design parameters.
-![Terms](terminology.png)
+![Terms](terminology.PNG)
 ### Fins (Prolegs)
 Our current inchworm body design consists of 13 fins, which can be thought of as analogs to caterpillar prolegs. 
 Similar inchworm robots have been designed with fewer fins https://www.liebertpub.com/doi/full/10.1089/soro.2018.0082 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8722784, more fins https://ieeexplore.ieee.org/document/7527653, smaller, ridge-like fins, or no fins at all https://ieeexplore.ieee.org/abstract/document/8722724
