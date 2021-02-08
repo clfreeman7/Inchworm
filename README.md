@@ -39,6 +39,27 @@ One drawback to fins is that the fin cavities leave the tendons exposed to poten
 Deciding on the number, width, and height of the fins is dependent on the material properties, tendon design, and expected environment interactions. Using fewer, wider fins that are spaced out may allow for greater deformation at the cost of stability and tendon exxposure. It may also impede the ability to interact with obstacles and cause radial stress on the tendon channels in the fins which can lead to tearing. However, thinner fins may be prone to buckling and breakage. Caterpillars do not employ uniform leg spacing. When working with exposed tendons, however, the best method of mimicking such spacing may be to simply decrease the height of some of the inner fins. This may encourage passive relaxation of the body.
 
 ## Fabrication
+Fabrication of the robbot consists of the following steps:
+1. Mold creation: the mold is modeled in CAD software, then 3D-printed.
+2. Casting: the soft body is casted in the mold using curable silicone rubber. 
+3. Tendon routing: the SMA is crimped to wire and threaded through the tendon channels to bbe secured in place through compression fitting of the soft body channels. The wires are then routed through the top channel and exit through a central hole.
+4. Endcap affixing: the endcaps are connected to the soft body by inserting the pins of the endcap into the corresponding holes in the soft body. Super glue can then be used to ensure adhesion. 
+
+#### Materials
+
+Mold creation
+- Fusion 360: CAD software
+- Cura LulzBot Edition: slicing software
+- LulzBot Mini: 3D printer
+- nGen Amphora filament
+
+Casting
+- 1/16 in diameter piano wire
+- 1/32 in diameter piano wire
+- Dragon Skin 10 Part A Platinum Cure Silicone Rubber
+- Dragon Skin 10 FAST Part B Platinum Cure Silicone Rubber
+
+Tendon Routing
 
 ### Mold Creation
 
