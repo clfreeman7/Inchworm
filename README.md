@@ -20,7 +20,7 @@ The figure below shows this basic morphology and the terminology for the design 
 ![Terms](terminology.PNG)
 ### Fins (Prolegs)
 Our current inchworm body design consists of 13 fins, which can be thought of as analogs to caterpillar prolegs. 
-Similar inchworm robots have been designed with fewer fins https://www.liebertpub.com/doi/full/10.1089/soro.2018.0082 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8722784, more fins https://ieeexplore.ieee.org/document/7527653, smaller, ridge-like fins, or no fins at all https://ieeexplore.ieee.org/abstract/document/8722724
+Similar inchworm robots have been designed with fewer fins https://www.liebertpub.com/doi/full/10.1089/soro.2018.0082 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8722784, more fins https://ieeexplore.ieee.org/document/7527653, smaller, ridge-like fins https://www.colorado.edu/lab/amtl/sites/default/files/attached-files/2017_ieee_icra_sma-actuated_biomimetic_robot.pdf, or no fins at all https://ieeexplore.ieee.org/abstract/document/8722724
 
 Rigid links without fins https://ieeexplore.ieee.org/abstract/document/6269102, https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9248054 have also been propossed.  
 
@@ -79,4 +79,10 @@ Mold creation begins by modeling the inchworm body in CAD, as shown below.
 ![SMA_coil](images/SMA_extended.PNG)
 ![SMA_coil](images/crimp.PNG)
 #### Adding Endcaps
+## Electronics and Controls
+The precise and accurate timing required for locomotion necessitates the use of a microcontroller. Due to the simplicity of the circuit and low memory requirements, the choice of microcontroller does not matter much. Some recommendations include the Arduino Nano IoT 33 (which includes WiFi and bluetooth modules), the Seeeduino XIAO, and the Adafruit ItsyBitsy M0 Express. All three of these options are compatible with the open-source Arduino IDE. 
+
+#### Motivation
+Microcontrollers typically include output pins that are able to supply 3.3 V or 5 V with a low current draw (typically ~20 mA). Because this current is lower than the required current for the SMA, we need a method to amplify the current. Here, we can recall that transistors are circuit elements that act as amplifiers and switches. Because of this, they are the main component in motor drivers, which can be used as an interface bewteen the microcontrollers and the SMAs to increase the current. Because SMAs are not polarized (unlike motors), a single motor driver (full-bridge, also known as H-bridge driver) is one terminal on each SMA can always be connected to ground. (In our particular use case, we employed a dual-motor driver because it was avaiable and matched the circuit requirements. This, however, is not neccessary). 
+
 ![markers](markers.png)
