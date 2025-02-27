@@ -1,5 +1,8 @@
 # Inchworm
-This repository details the design, fabrication, and control of a soft inchworm robot with embedded SMA tendons. 
+This repository details the design, fabrication, and control of a soft inchworm robot with embedded SMA tendons. This work was presented in the [2021 IROS paper](https://ieeexplore.ieee.org/document/9636695) "Shape-centric Modeling for Soft Robot Inchworm Locomotion," which can be cited as follows:
+
+A. H. Chang, C. Freeman, A. N. Mahendran, V. Vikas and P. A. Vela, "Shape-centric Modeling for Soft Robot Inchworm Locomotion," 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Prague, Czech Republic, 2021, pp. 645-652, doi: 10.1109/IROS51168.2021.9636695.
+
 
 ## Morphology and Design
 
