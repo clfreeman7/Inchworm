@@ -3,6 +3,7 @@ This repository details the design, fabrication, and control of a soft inchworm 
 
 A. H. Chang, C. Freeman, A. N. Mahendran, V. Vikas and P. A. Vela, "Shape-centric Modeling for Soft Robot Inchworm Locomotion," 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Prague, Czech Republic, 2021, pp. 645-652, doi: 10.1109/IROS51168.2021.9636695.
 
+The accompanying YouTube video narrated by Alexander Chang can be found [here](https://www.youtube.com/watch?v=rOaG7ZmEsRE).
 
 ## Morphology and Design
 
